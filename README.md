@@ -1,4 +1,4 @@
-# Learn CSS: Comprehensive Guide for Software Architects
+# CSS Advanced
 
 ## 1. Introduction to CSS
    - **1.1 Welcome to Learn CSS**
